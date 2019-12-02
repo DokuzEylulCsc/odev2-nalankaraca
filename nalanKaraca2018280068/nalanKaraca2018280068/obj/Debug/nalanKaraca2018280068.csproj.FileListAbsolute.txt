@@ -1,0 +1,10 @@
+C:\Users\ders\Desktop\nalanKaraca2018280068\nalanKaraca2018280068\bin\Debug\nalanKaraca2018280068.exe.config
+C:\Users\ders\Desktop\nalanKaraca2018280068\nalanKaraca2018280068\bin\Debug\nalanKaraca2018280068.exe
+C:\Users\ders\Desktop\nalanKaraca2018280068\nalanKaraca2018280068\bin\Debug\nalanKaraca2018280068.pdb
+C:\Users\ders\Desktop\nalanKaraca2018280068\nalanKaraca2018280068\obj\Debug\nalanKaraca2018280068.csprojResolveAssemblyReference.cache
+C:\Users\ders\Desktop\nalanKaraca2018280068\nalanKaraca2018280068\obj\Debug\nalanKaraca2018280068.Form1.resources
+C:\Users\ders\Desktop\nalanKaraca2018280068\nalanKaraca2018280068\obj\Debug\nalanKaraca2018280068.Properties.Resources.resources
+C:\Users\ders\Desktop\nalanKaraca2018280068\nalanKaraca2018280068\obj\Debug\nalanKaraca2018280068.csproj.GenerateResource.Cache
+C:\Users\ders\Desktop\nalanKaraca2018280068\nalanKaraca2018280068\obj\Debug\nalanKaraca2018280068.csproj.CoreCompileInputs.cache
+C:\Users\ders\Desktop\nalanKaraca2018280068\nalanKaraca2018280068\obj\Debug\nalanKaraca2018280068.exe
+C:\Users\ders\Desktop\nalanKaraca2018280068\nalanKaraca2018280068\obj\Debug\nalanKaraca2018280068.pdb
